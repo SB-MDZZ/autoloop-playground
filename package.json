@@ -1,0 +1,10 @@
+﻿{
+  "name": "agent-playground",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sandbox for dsh-superagent end-to-end checks",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/"
+  }
+}
